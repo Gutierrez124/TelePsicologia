@@ -1,0 +1,38 @@
+
+Política de Privacidad de TelePsicologia
+
+En TelePsicologia, nos comprometemos a proteger la privacidad y la seguridad de nuestros usuarios. Esta política de privacidad describe cómo recopilamos, utilizamos y protegemos la información personal en nuestra aplicación.
+
+1. Información que recopilamos
+Recopilamos la siguiente información personal cuando los usuarios crean una cuenta en nuestra aplicación:
+- Correo electrónico: utilizado para autenticar y acceder al sistema.
+- Contraseña: para garantizar que solo los usuarios autorizados tengan acceso a sus cuentas.
+
+2. Cómo utilizamos la información
+La información recopilada se utiliza para los siguientes fines:
+- Autenticación: para que los usuarios puedan acceder a la aplicación de forma segura con su correo electrónico y contraseña.
+- Gestión de roles: para asignar permisos y restricciones según el rol del usuario (administrador, psicólogo o paciente).
+- Programación de reuniones: planeamos integrar Zoom en un futuro cercano para permitir la gestión de reuniones dentro de nuestra plataforma, sin necesidad de utilizar la aplicación Zoom directamente.
+
+3. Roles de los usuarios
+Dependiendo de su rol en el sistema, los usuarios tienen acceso a diferentes funcionalidades:
+- Administrador: acceso completo al sistema, incluyendo la gestión de usuarios y datos.
+- Psicólogo: acceso limitado a los pacientes asignados y las reuniones agendadas.
+- Paciente: acceso solo a sus reuniones y calendario personal.
+
+4. Integración con Zoom (Próximamente)
+Planeamos integrar Zoom en un futuro cercano para permitir que las reuniones sean realizadas y gestionadas dentro de nuestra aplicación. Esta integración permitirá que los usuarios agenden reuniones sin tener que salir de nuestra plataforma. Actualmente, la funcionalidad está en desarrollo y no se ha implementado en el sistema.
+
+5. Seguridad
+Tomamos medidas razonables para proteger la información personal de los usuarios, como el uso de contraseñas seguras y la encriptación de datos. Sin embargo, ningún sistema es completamente seguro, por lo que no podemos garantizar la seguridad total de la información transmitida a través de nuestra aplicación.
+
+6. Uso interno y desarrollo
+Actualmente, nuestra aplicación está en desarrollo y está destinada a uso interno o por un grupo limitado de usuarios. Los datos no se comparten con terceros sin el consentimiento expreso del usuario, excepto cuando es necesario para el funcionamiento de la integración con Zoom una vez esté disponible.
+
+7. Actualizaciones de la política de privacidad
+Nos reservamos el derecho de actualizar esta política de privacidad. Cualquier cambio será publicado en esta misma página y, en caso de ser necesario, se notificará a los usuarios.
+
+8. Contacto
+Si tienes alguna pregunta sobre esta política de privacidad o deseas obtener más información sobre cómo manejamos tus datos, puedes contactarnos a través del correo electrónico: gutierrezbeyker847@gmail.com
+
+
